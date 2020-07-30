@@ -1,3 +1,5 @@
+"use strict"
+
 // window.alert('1');
 // window.prompt('Как тебя зовут?');
 // window.confirm('');

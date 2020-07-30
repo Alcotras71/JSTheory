@@ -1,3 +1,5 @@
+"use strict"
+
 const cars = ['Мазда', 'Форд', 'БМВ', 'Мерседес'];
 // const people = [{
 // 		name: 'Andrey',

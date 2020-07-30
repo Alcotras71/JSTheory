@@ -1,3 +1,5 @@
+"use strict"
+
 // const name = 'Андрей'
 // const age = 22
 
