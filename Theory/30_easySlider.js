@@ -41,10 +41,10 @@ function plusSlide(n) {
 	showSlides(slideIndex += n);
 }
 
-next.addEventListener('click', e => {
+next.addEventListener('click', () => {
 	plusSlide(1);
 });
 
-prev.addEventListener('click', e => {
+prev.addEventListener('click', () => {
 	plusSlide(-1);
 });
